@@ -1,0 +1,6 @@
+com\findwise\IndexEntry.class
+com\findwise\model\WordPositionDTO.class
+com\findwise\SearchEngine.class
+com\findwise\implementation\SearchEngineImpl.class
+com\findwise\implementation\IndexEntryImpl.class
+main\main.class
